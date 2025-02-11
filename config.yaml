@@ -1,0 +1,5 @@
+# config.yaml
+user_proxy_agent:
+  name: "UserProxy"
+assistant_agent:
+  name: "Assistant"
